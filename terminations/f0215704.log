@@ -1,0 +1,12 @@
+Using private node: http://192.168.1.246:1234/rpc/v1
+Checking termination burn for miner f0215704 @4095790:
+Miner f0215704 @4095790: Quick method: 6058.731 FIL (800 of 58628 sectors, offchain, 1.4s)
+Miner f0215704 @4095790: Sampled method: 6058.731 FIL (800 of 58628 sectors, onchain, 1.6s)
+Partitions   0% |                                     | (0/31, 0 it/hr) [0s:0s]                                                                               Partitions  12% |████                                 | (4/31, 27 it/s) [0s:1s]                                                                               Partitions  19% |███████                              | (6/31, 13 it/s) [0s:1s]                                                                               Partitions  25% |█████████                             | (8/31, 9 it/s) [0s:2s]                                                                               Partitions  35% |████████████                         | (11/31, 9 it/s) [1s:2s]                                                                               Partitions  45% |████████████████                     | (14/31, 9 it/s) [1s:1s]                                                                               Partitions  54% |███████████████████                  | (17/31, 8 it/s) [2s:1s]                                                                               Partitions  64% |███████████████████████              | (20/31, 8 it/s) [2s:1s]                                                                               Partitions  74% |███████████████████████████          | (23/31, 8 it/s) [2s:1s]                                                                               Partitions  83% |██████████████████████████████       | (26/31, 8 it/s) [3s:0s]                                                                               Partitions  93% |██████████████████████████████████   | (29/31, 8 it/s) [3s:0s]                                                                                                                                                              Miner f0215704 @4095790: Full method: 6490.761 FIL (58628 of 58628 sectors, onchain, 5s)
+Miner f0215704: Quick method UNDERESTIMATED: 432.030 FIL (6.656%, 800/58628 sectors)
+Miner f0215704: Assertion failed: Quick vs Full diff 6.656% > 5.000%
+2024/07/16 22:12:27 FAIL: Miner liquidation test had errors.
+
+real	0m7.839s
+user	0m0.601s
+sys	0m0.105s

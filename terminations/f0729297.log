@@ -1,0 +1,12 @@
+Using private node: http://192.168.1.246:1234/rpc/v1
+Checking termination burn for miner f0729297 @4095790:
+Miner f0729297 @4095790: Quick method: 357.522 FIL (450 of 5527 sectors, offchain, 0.9s)
+Miner f0729297 @4095790: Sampled method: 357.522 FIL (450 of 5527 sectors, onchain, 1.0s)
+Partitions   0% |                                      | (0/4, 0 it/hr) [0s:0s]                                                                                                                                                              Miner f0729297 @4095790: Full method: 378.753 FIL (5527 of 5527 sectors, onchain, 1s)
+Miner f0729297: Quick method UNDERESTIMATED: 21.231 FIL (5.606%, 450/5527 sectors)
+Miner f0729297: Assertion failed: Quick vs Full diff 5.606% > 5.000%
+2024/07/16 23:18:11 FAIL: Miner liquidation test had errors.
+
+real	0m3.010s
+user	0m0.160s
+sys	0m0.041s
