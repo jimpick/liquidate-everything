@@ -1,0 +1,12 @@
+Using private node: http://192.168.1.246:1234/rpc/v1
+Checking termination burn for miner f01208189 @4095790:
+Miner f01208189 @4095790: Quick method: 5749.634 FIL (720 of 37717 sectors, offchain, 2.6s)
+Miner f01208189 @4095790: Sampled method: 5749.634 FIL (720 of 37717 sectors, onchain, 6.9s)
+Partitions   0% |                                     | (0/28, 0 it/hr) [0s:0s]                                                                               Partitions  17% |██████                                | (5/28, 8 it/s) [0s:2s]                                                                               Partitions  28% |██████████                            | (8/28, 8 it/s) [1s:2s]                                                                               Partitions  39% |██████████████                       | (11/28, 7 it/s) [1s:2s]                                                                               Partitions  50% |██████████████████                   | (14/28, 7 it/s) [2s:2s]                                                                               Partitions  60% |█████████████████████               | (17/28, 5 it/s) [11s:2s]                                                                               Partitions  71% |█████████████████████████           | (20/28, 4 it/s) [35s:2s]                                                                               Partitions  82% |████████████████████████████       | (23/28, 3 it/s) [1m3s:1s]                                                                               Partitions  92% |████████████████████████████████   | (26/28, 3 it/s) [1m4s:0s]                                                                                                                                                              Miner f01208189 @4095790: Full method: 6364.919 FIL (37717 of 37717 sectors, onchain, 1m7s)
+Miner f01208189: Quick method UNDERESTIMATED: 615.284 FIL (9.667%, 720/37717 sectors)
+Miner f01208189: Assertion failed: Quick vs Full diff 9.667% > 5.000%
+2024/07/17 03:46:09 FAIL: Miner liquidation test had errors.
+
+real	1m16.306s
+user	0m10.357s
+sys	0m1.068s

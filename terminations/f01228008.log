@@ -1,0 +1,10 @@
+Using private node: http://192.168.1.246:1234/rpc/v1
+Checking termination burn for miner f01228008 @4095790:
+Miner f01228008 @4095790: Quick method: 10644.450 FIL (760 of 48214 sectors, offchain, 2.1s)
+Miner f01228008 @4095790: Sampled method: 10644.450 FIL (760 of 48214 sectors, onchain, 3.1s)
+Partitions   0% |                                     | (0/27, 0 it/hr) [0s:0s]                                                                               Partitions  18% |██████                               | (5/27, 2 it/s) [2s:10s]                                                                               Partitions  29% |███████████                           | (8/27, 2 it/s) [3s:9s]                                                                               Partitions  40% |██████████████                       | (11/27, 2 it/s) [5s:7s]                                                                               Partitions  51% |██████████████████                   | (14/27, 2 it/s) [7s:6s]                                                                               Partitions  62% |██████████████████████              | (17/27, 2 it/s) [11s:5s]                                                                               Partitions  74% |██████████████████████████          | (20/27, 2 it/s) [15s:4s]                                                                               Partitions  85% |██████████████████████████████      | (23/27, 1 it/s) [19s:2s]                                                                               Partitions  96% |██████████████████████████████████  | (26/27, 1 it/s) [22s:0s]                                                                                                                                                              Miner f01228008 @4095790: Full method: 10763.495 FIL (48214 of 48214 sectors, onchain, 27s)
+Miner f01228008: Quick method UNDERESTIMATED: 119.045 FIL (1.106%, 760/48214 sectors)
+
+real	0m32.450s
+user	0m5.111s
+sys	0m0.492s
