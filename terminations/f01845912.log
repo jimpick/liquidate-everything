@@ -1,0 +1,10 @@
+Using private node: http://192.168.1.246:1234/rpc/v1
+Checking termination burn for miner f01845912 @4095790:
+Miner f01845912 @4095790: Quick method: 3335.582 FIL (733 of 9968 sectors, offchain, 1.3s)
+Miner f01845912 @4095790: Sampled method: 3335.582 FIL (733 of 9968 sectors, onchain, 4.7s)
+Partitions   0% |                                     | (0/29, 0 it/hr) [0s:0s]                                                                               Partitions  17% |█████                             | (5/29, 42 it/min) [7s:34s]                                                                               Partitions  27% |████████                         | (8/29, 34 it/min) [13s:36s]                                                                               Partitions  37% |███████████                     | (11/29, 39 it/min) [17s:27s]                                                                               Partitions  48% |███████████████                 | (14/29, 43 it/min) [20s:21s]                                                                               Partitions  58% |██████████████████              | (17/29, 43 it/min) [24s:16s]                                                                               Partitions  68% |█████████████████████           | (20/29, 45 it/min) [28s:12s]                                                                               Partitions  79% |██████████████████████████       | (23/29, 45 it/min) [32s:8s]                                                                               Partitions  89% |█████████████████████████████    | (26/29, 48 it/min) [34s:3s]                                                                                                                                                              Miner f01845912 @4095790: Full method: 3311.131 FIL (9968 of 9968 sectors, onchain, 36s)
+Miner f01845912: Quick method overestimated: 24.451 FIL (0.738%, 733/9968 sectors)
+
+real	0m42.043s
+user	0m8.002s
+sys	0m0.786s

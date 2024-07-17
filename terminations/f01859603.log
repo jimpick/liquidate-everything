@@ -1,0 +1,9 @@
+Using private node: http://192.168.1.246:1234/rpc/v1
+Checking termination burn for miner f01859603 @4095790:
+Miner f01859603 @4095790: Quick method: 29235.671 FIL (809 of 160931 sectors, offchain, 1.9s)
+Miner f01859603 @4095790: Sampled method: 29235.671 FIL (809 of 160931 sectors, onchain, 8.5s)
+Partitions   0% |                                     | (0/80, 0 it/hr) [0s:0s]                                                                               Partitions   6% |█                               | (5/80, 18 it/min) [16s:4m9s]                                                                               Partitions  10% |███                             | (8/80, 12 it/min) [47s:6m1s]                                                                               Partitions  13% |███                          | (11/80, 9 it/min) [1m29s:7m21s]                                                                               Partitions  17% |████                         | (14/80, 8 it/min) [2m16s:8m15s]2024/07/17 10:07:22 RPC client error: sendRequest failed: Post "http://192.168.1.246:1234/rpc/v1": EOF
+
+real	5m0.555s
+user	0m17.099s
+sys	0m1.683s
