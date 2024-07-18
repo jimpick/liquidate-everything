@@ -1,0 +1,10 @@
+Using private node: http://192.168.1.246:1234/rpc/v1
+Checking termination burn for miner f02041085 @4095790:
+Miner f02041085 @4095790: Quick method: 32236.504 FIL (800 of 58180 sectors, offchain, 1.5s)
+Miner f02041085 @4095790: Sampled method: 32236.504 FIL (800 of 58180 sectors, onchain, 5.8s)
+Partitions   0% |                                     | (0/28, 0 it/hr) [0s:0s]                                                                               Partitions  17% |█████                          | (5/28, 11 it/min) [28s:2m10s]                                                                               Partitions  28% |████████                        | (8/28, 9 it/min) [51s:2m11s]                                                                               Partitions  39% |███████████                  | (11/28, 9 it/min) [1m15s:1m58s]                                                                               Partitions  50% |██████████████               | (14/28, 8 it/min) [1m39s:1m41s]                                                                               Partitions  60% |██████████████████            | (17/28, 8 it/min) [2m5s:1m22s]                                                                               Partitions  71% |█████████████████████         | (20/28, 8 it/min) [2m29s:1m0s]                                                                               Partitions  82% |█████████████████████████      | (23/28, 8 it/min) [2m59s:39s]                                                                               Partitions  92% |████████████████████████████   | (26/28, 8 it/min) [3m24s:15s]                                                                                                                                                              Miner f02041085 @4095790: Full method: 32399.874 FIL (58180 of 58180 sectors, onchain, 3m35s)
+Miner f02041085: Quick method UNDERESTIMATED: 163.369 FIL (0.504%, 800/58180 sectors)
+
+real	3m43.011s
+user	0m46.065s
+sys	0m5.037s
