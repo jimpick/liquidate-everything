@@ -1,0 +1,9 @@
+Using private node: http://192.168.1.246:1234/rpc/v1
+Checking termination burn for miner f02812314 @4095790:
+Miner f02812314 @4095790: Quick method: 6218.996 FIL (560 of 33862 sectors, offchain, 1.4s)
+Miner f02812314 @4095790: Sampled method: 6218.996 FIL (560 of 33862 sectors, onchain, 5.3s)
+Partitions   0% |                                     | (0/15, 0 it/hr) [0s:0s]                                                                               Partitions  33% |██████████                      | (5/15, 6 it/min) [53s:1m46s]                                                                               Partitions  53% |███████████████               | (8/15, 5 it/min) [1m33s:1m22s]                                                                               Partitions  73% |██████████████████████         | (11/15, 5 it/min) [2m24s:52s]                                                                               Partitions  93% |████████████████████████████   | (14/15, 5 it/min) [2m49s:11s]                                                                               2024/07/18 19:07:41 RPC client error: sendRequest failed: Post "http://192.168.1.246:1234/rpc/v1": dial tcp 192.168.1.246:1234: connect: connection refused
+
+real	2m57.313s
+user	0m19.943s
+sys	0m1.842s

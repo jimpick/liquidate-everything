@@ -1,0 +1,6 @@
+Using private node: http://192.168.1.246:1234/rpc/v1
+2024/07/18 19:07:56 node connection error: Post "http://192.168.1.246:1234/rpc/v1": dial tcp 192.168.1.246:1234: connect: connection refused
+
+real	0m0.038s
+user	0m0.017s
+sys	0m0.011s

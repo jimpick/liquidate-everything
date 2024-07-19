@@ -1,0 +1,10 @@
+Using private node: http://192.168.1.246:1234/rpc/v1
+Checking termination burn for miner f02934869 @4095790:
+Miner f02934869 @4095790: Quick method: 8562.657 FIL (760 of 57090 sectors, offchain, 1.5s)
+Miner f02934869 @4095790: Sampled method: 8562.657 FIL (760 of 57090 sectors, onchain, 5.6s)
+Partitions   0% |                                     | (0/27, 0 it/hr) [0s:0s]                                                                               Partitions  18% |█████                          | (5/27, 13 it/min) [23s:1m44s]                                                                               Partitions  29% |████████                       | (8/27, 10 it/min) [47s:1m52s]                                                                               Partitions  40% |███████████                  | (11/27, 11 it/min) [1m2s:1m29s]                                                                               Partitions  48% |█████████████               | (13/27, 10 it/min) [1m18s:1m24s]                                                                               Partitions  55% |███████████████              | (15/27, 9 it/min) [1m41s:1m20s]                                                                               Partitions  66% |████████████████████           | (18/27, 9 it/min) [2m6s:1m2s]                                                                               Partitions  77% |███████████████████████        | (21/27, 9 it/min) [2m29s:42s]                                                                               Partitions  88% |███████████████████████████    | (24/27, 8 it/min) [2m51s:21s]                                                                                                                                                              Miner f02934869 @4095790: Full method: 8560.792 FIL (57090 of 57090 sectors, onchain, 3m10s)
+Miner f02934869: Quick method overestimated: 1.864 FIL (0.022%, 760/57090 sectors)
+
+real	3m17.644s
+user	0m39.850s
+sys	0m3.430s

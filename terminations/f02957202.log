@@ -1,0 +1,10 @@
+Using private node: http://192.168.1.246:1234/rpc/v1
+Checking termination burn for miner f02957202 @4095790:
+Miner f02957202 @4095790: Quick method: 3965.840 FIL (600 of 27520 sectors, offchain, 1.1s)
+Miner f02957202 @4095790: Sampled method: 3965.840 FIL (600 of 27520 sectors, onchain, 4.7s)
+Partitions   0% |                                     | (0/12, 0 it/hr) [0s:0s]                                                                               Partitions  33% |██████████                       | (4/12, 15 it/min) [16s:33s]                                                                               Partitions  50% |████████████████                 | (6/12, 11 it/min) [32s:32s]                                                                               Partitions  66% |██████████████████████            | (8/12, 9 it/min) [57s:26s]                                                                               Partitions  91% |█████████████████████████████   | (11/12, 8 it/min) [1m38s:7s]                                                                                                                                                              Miner f02957202 @4095790: Full method: 3966.057 FIL (27520 of 27520 sectors, onchain, 2m3s)
+Miner f02957202: Quick method UNDERESTIMATED: 0.217 FIL (0.005%, 600/27520 sectors)
+
+real	2m9.186s
+user	0m20.260s
+sys	0m1.875s
